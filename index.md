@@ -4,14 +4,33 @@ title: Support
 permalink: /
 ---
 
-Receiver Remote lets you control your Yamaha network receiver from your Apple Watch: power, mute, volume, and input for each zone, plus a Smart Stack widget for quick volume changes.
+Receiver Remote lets you control your network AV receiver from your Apple Watch: power, mute, volume, and input for each zone, plus a Smart Stack widget for quick volume changes.
+
+Receiver Remote currently supports Yamaha receivers, with more brands planned. See [Supported receivers](#supported-receivers) below.
 
 <img src="{{ '/assets/screenshots/framed/zone.png' | relative_url }}" alt="A zone screen showing power, mute, volume, and input" width="240">
+
+## Supported receivers
+
+### Supported now
+
+- **Yamaha** network AV receivers that support MusicCast, including the AVENTAGE line
+
+Receiver Remote is tested on a Yamaha AVENTAGE RX-A6A. Other MusicCast-enabled Yamaha receivers use the same network control and should work too.
+
+### Coming next
+
+Support for other brands will be added based on demand. If you'd like Receiver Remote to work with your receiver, [email us](mailto:SUPPORT_EMAIL_PLACEHOLDER?subject=Receiver%20Remote%20brand%20request) with the brand and model — requests help decide which brands come next.
+
+### Apple Watch
+
+- Any Apple Watch running watchOS 26 or later
+- Receiver Remote runs on your watch on its own — no iPhone app needed
 
 ## Requirements
 
 - Apple Watch running watchOS 26 or later
-- A Yamaha network AV receiver that supports MusicCast
+- A [supported receiver](#supported-receivers)
 - Your Apple Watch and receiver connected to the same home network
 
 ## Getting started
@@ -21,7 +40,7 @@ When you first open Receiver Remote, you'll see the **Zones** screen.
 <img src="{{ '/assets/screenshots/framed/zones.png' | relative_url }}" alt="The Zones screen" width="240">
 
 1. Tap **Add a Zone**.
-2. Receiver Remote searches your network for Yamaha receivers. Tap your receiver when it appears.
+2. Receiver Remote searches your network for supported receivers. Tap your receiver when it appears.
 3. Choose a zone (for example, Main or Zone 2) and tap **Add**.
 4. Repeat for any other zones you want to control.
 
@@ -88,4 +107,4 @@ Questions or problems? Email [SUPPORT_EMAIL_PLACEHOLDER](mailto:SUPPORT_EMAIL_PL
 
 ---
 
-Receiver Remote is an independent app and is not affiliated with, endorsed by, or sponsored by Yamaha Corporation. Yamaha and MusicCast are trademarks of Yamaha Corporation.
+Receiver Remote is an independent app and is not affiliated with, endorsed by, or sponsored by any receiver manufacturer. Yamaha, AVENTAGE, and MusicCast are trademarks of Yamaha Corporation. All other trademarks are the property of their respective owners.

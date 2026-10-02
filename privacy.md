@@ -19,7 +19,7 @@ This information never leaves your watch. It is not sent to us or to anyone else
 
 ## Network use
 
-Receiver Remote communicates only with Yamaha receivers on your local network, to find receivers and to send the commands you choose (such as power, volume, and input). It does not connect to any other servers.
+Receiver Remote communicates only with receivers on your local network, to find receivers and to send the commands you choose (such as power, volume, and input). It does not connect to any other servers.
 
 ## What we don't do
 

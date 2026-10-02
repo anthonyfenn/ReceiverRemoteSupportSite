@@ -6,7 +6,7 @@ permalink: /
 
 Receiver Remote lets you control your Yamaha network receiver from your Apple Watch: power, mute, volume, and input for each zone, plus a Smart Stack widget for quick volume changes.
 
-<img src="{{ '/assets/screenshots/zone.png' | relative_url }}" alt="A zone screen showing power, mute, volume, and input" width="208">
+<img src="{{ '/assets/screenshots/framed/zone.png' | relative_url }}" alt="A zone screen showing power, mute, volume, and input" width="240">
 
 ## Requirements
 
@@ -18,7 +18,7 @@ Receiver Remote lets you control your Yamaha network receiver from your Apple Wa
 
 When you first open Receiver Remote, you'll see the **Zones** screen.
 
-<img src="{{ '/assets/screenshots/zones.png' | relative_url }}" alt="The Zones screen" width="208">
+<img src="{{ '/assets/screenshots/framed/zones.png' | relative_url }}" alt="The Zones screen" width="240">
 
 1. Tap **Add a Zone**.
 2. Receiver Remote searches your network for Yamaha receivers. Tap your receiver when it appears.
@@ -40,7 +40,7 @@ Swipe left and right to move between your zones. The **Zones** screen is always 
 - **Volume** — turn the Digital Crown.
 - **Input** — tap the Input box and choose from the list.
 
-<img src="{{ '/assets/screenshots/input-list.png' | relative_url }}" alt="The input list with the current input checked" width="208">
+<img src="{{ '/assets/screenshots/framed/input-list.png' | relative_url }}" alt="The input list with the current input checked" width="240">
 
 ### Customizing inputs
 
@@ -51,13 +51,13 @@ To hide inputs you never use or change their order, go to **Zones → Customize 
 
 Only shown inputs appear when you tap the Input box.
 
-<img src="{{ '/assets/screenshots/customize-inputs.png' | relative_url }}" alt="Customize Inputs with reorder arrows and check marks" width="208">
+<img src="{{ '/assets/screenshots/framed/customize-inputs.png' | relative_url }}" alt="Customize Inputs with reorder arrows and check marks" width="240">
 
 ### Managing zones
 
 Go to **Zones → Manage Zones** to reorder your zones with the up and down arrows, or remove a zone with the trash button.
 
-<img src="{{ '/assets/screenshots/manage-zones.png' | relative_url }}" alt="Manage Zones with reorder and remove buttons" width="208">
+<img src="{{ '/assets/screenshots/framed/manage-zones.png' | relative_url }}" alt="Manage Zones with reorder and remove buttons" width="240">
 
 ### Smart Stack widget
 
@@ -69,7 +69,7 @@ Add the Receiver Remote widget to see a zone's volume and adjust it without open
 
 Tap **−** or **+** to change the volume, or tap the widget to open that zone in the app.
 
-<img src="{{ '/assets/screenshots/widget.png' | relative_url }}" alt="The Receiver Remote widget in the Smart Stack" width="208">
+<img src="{{ '/assets/screenshots/framed/widget.png' | relative_url }}" alt="The Receiver Remote widget in the Smart Stack" width="240">
 
 ## Troubleshooting
 
